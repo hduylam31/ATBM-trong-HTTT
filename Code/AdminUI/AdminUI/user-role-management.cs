@@ -282,7 +282,9 @@ namespace AdminUI
 
         private void btn_rolePriv_Click(object sender, EventArgs e)
         {
-
+            QuanTriClient obj = new QuanTriClient();
+            obj.Show();
+            this.Hide();
         }
     }
 }
