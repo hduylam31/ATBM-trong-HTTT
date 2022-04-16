@@ -23,3 +23,4 @@ D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-w
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.genruntimeconfig.cache
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\ref\AdminUI.dll
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.Form1.resources
+D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.QuanTriClient.resources
