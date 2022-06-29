@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\zThis is me\\Study from school\\HK3-2\\AT&BMCSDLTHTTT\\Project1\\Project1\\Project1\\Project1.csproj": {}
+    "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\Project1\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "D:\\zThis is me\\Study from school\\HK3-2\\AT&BMCSDLTHTTT\\Project1\\Project1\\Project1\\Project1.csproj": {
+    "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\Project1\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\zThis is me\\Study from school\\HK3-2\\AT&BMCSDLTHTTT\\Project1\\Project1\\Project1\\Project1.csproj",
+        "projectUniqueName": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\Project1\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "D:\\zThis is me\\Study from school\\HK3-2\\AT&BMCSDLTHTTT\\Project1\\Project1\\Project1\\Project1.csproj",
+        "projectPath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\Project1\\Project1\\Project1.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\zThis is me\\Study from school\\HK3-2\\AT&BMCSDLTHTTT\\Project1\\Project1\\Project1\\obj\\",
+        "outputPath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\Project1\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

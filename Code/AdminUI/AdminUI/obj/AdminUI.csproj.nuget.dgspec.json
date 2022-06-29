@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\zThis is me\\Git clone\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj": {}
+    "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj": {}
   },
   "projects": {
-    "D:\\zThis is me\\Git clone\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj": {
+    "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\zThis is me\\Git clone\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+        "projectUniqueName": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
         "projectName": "AdminUI",
-        "projectPath": "D:\\zThis is me\\Git clone\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+        "projectPath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\zThis is me\\Git clone\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\obj\\",
+        "outputPath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

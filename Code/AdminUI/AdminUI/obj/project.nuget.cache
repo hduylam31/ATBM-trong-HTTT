@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKI7CHhWK+ZiSiSI21zH/Zj6yNG6z67hnkDf686cBBS1YiQoSZFV9oaRER+m19bY1JCbSqDa7yBRoZdRMEOvAg==",
+  "dgSpecHash": "vaOd4nwdwF41CLQ8FeBWzJbNUhvdGpFyyOSqcVtg0oGklfJw9MAipcW6BDoFjr1vyTD6lKX8iFZpr7EdRDBMIw==",
   "success": true,
-  "projectFilePath": "D:\\zThis is me\\Git clone\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+  "projectFilePath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

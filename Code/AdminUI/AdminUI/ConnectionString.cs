@@ -10,7 +10,9 @@ namespace AdminUI
     {
         string PATH = "(DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521)))(CONNECT_DATA = (SERVICE_NAME = XEPDB1)))";
         static string conStr = "";
-        
+        public string user = "";
+        public string pass = "";
+
         public string getString()
         {
             return conStr;
@@ -19,6 +21,8 @@ namespace AdminUI
         public void setConStr(string username, string password)
         {
             conStr = "Data Source = " + PATH + "; User Id = " + username + ";password=" + password;
+            user = username;
+            pass = password;
         }
     }
 }
