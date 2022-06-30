@@ -2,7 +2,7 @@
 DECLARE
   CURSOR c1 IS
     SELECT MABN FROM C##Admin_BenhVien.BENHNHAN
-    WHERE MABN < 101
+    WHERE MABN < 11
     ORDER BY MABN;
 
   my_id   C##Admin_BenhVien.BENHNHAN.MABN%TYPE;
@@ -83,9 +83,10 @@ BEGIN
 END;
 /
 
---Phan quyen
+--Phan quyen DBA
 GRANT CREATE SESSION to C##BENHNHAN;
 
+--Phan quyen Admin_BenhVien
 --Quyen select
 grant select on C##Admin_BenhVien.BENHNHAN to C##BENHNHAN;
 revoke select on C##Admin_BenhVien.BENHNHAN from C##BENHNHAN;

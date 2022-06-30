@@ -24,6 +24,41 @@ D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-w
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\ref\AdminUI.dll
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.Form1.resources
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.QuanTriClient.resources
+<<<<<<< HEAD
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.exe
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.deps.json
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.runtimeconfig.json
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.pdb
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.AssemblyReference.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.login.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.QuanTriClient.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.Form1.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.role_management.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.GenerateResource.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.AssemblyInfoInputs.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.AssemblyInfo.cs
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.CoreCompileInputs.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.CopyComplete
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\refint\AdminUI.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.pdb
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.genruntimeconfig.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\ref\AdminUI.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.y_bacsi_UI.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.thanh_tra_UI.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.nghien_cuu.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.audit.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.nhan_vien_UI.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.benh_nhan.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.ma_hoa.resources
+=======
 D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.exe
 D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.deps.json
 D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.runtimeconfig.json
@@ -51,3 +86,4 @@ D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug
 D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.genruntimeconfig.cache
 D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\ref\AdminUI.dll
 D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.y_bacsi_UI.resources
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e

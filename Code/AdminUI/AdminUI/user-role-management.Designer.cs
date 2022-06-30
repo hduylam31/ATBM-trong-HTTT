@@ -55,6 +55,7 @@
             this.btn_rolePriv = new System.Windows.Forms.Button();
             this.label9 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.btn_bang = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_user)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_role)).BeginInit();
             this.panel1.SuspendLayout();
@@ -358,11 +359,21 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI Black", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.Location = new System.Drawing.Point(74, 9);
+            this.label7.Location = new System.Drawing.Point(12, 9);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(911, 81);
             this.label7.TabIndex = 22;
             this.label7.Text = "Users and Roles Management";
+            // 
+            // btn_bang
+            // 
+            this.btn_bang.Location = new System.Drawing.Point(956, 12);
+            this.btn_bang.Name = "btn_bang";
+            this.btn_bang.Size = new System.Drawing.Size(94, 29);
+            this.btn_bang.TabIndex = 23;
+            this.btn_bang.Text = "Xem bảng";
+            this.btn_bang.UseVisualStyleBackColor = true;
+            this.btn_bang.Click += new System.EventHandler(this.btn_bang_Click);
             // 
             // role_management
             // 
@@ -370,6 +381,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(1062, 673);
+            this.Controls.Add(this.btn_bang);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.dgv_user);
             this.Controls.Add(this.panel1);
@@ -416,5 +428,6 @@
         private Label label7;
         private Button btn_userPriv;
         private Button btn_rolePriv;
+        private Button btn_bang;
     }
 }

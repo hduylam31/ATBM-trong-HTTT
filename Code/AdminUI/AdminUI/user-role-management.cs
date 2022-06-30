@@ -286,5 +286,12 @@ namespace AdminUI
             obj.Show();
             this.Hide();
         }
+
+        private void btn_bang_Click(object sender, EventArgs e)
+        {
+            ma_hoa m = new ma_hoa();
+            m.Show();
+            this.Hide();
+        }
     }
 }

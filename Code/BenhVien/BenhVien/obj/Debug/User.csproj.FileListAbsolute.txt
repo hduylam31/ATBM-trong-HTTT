@@ -28,3 +28,34 @@ C:\Users\ASUS\Documents\GitHub\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\
 C:\Users\ASUS\Documents\GitHub\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\User.csproj.CopyComplete
 C:\Users\ASUS\Documents\GitHub\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\BenhVien.exe
 C:\Users\ASUS\Documents\GitHub\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\BenhVien.pdb
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\BenhVien.exe.config
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\BenhVien.exe
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\BenhVien.pdb
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Buffers.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Memory.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Text.Json.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.ValueTuple.dll
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Buffers.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Memory.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Text.Json.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\bin\Debug\System.ValueTuple.xml
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\User.csproj.AssemblyReference.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\User.csproj.SuggestedBindingRedirects.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\BenhVien.Form1.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\BenhVien.Properties.Resources.resources
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\User.csproj.GenerateResource.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\User.csproj.CoreCompileInputs.cache
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\User.csproj.CopyComplete
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\BenhVien.exe
+C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\BenhVien\BenhVien\obj\Debug\BenhVien.pdb

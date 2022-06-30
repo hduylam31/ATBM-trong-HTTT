@@ -1,23 +1,29 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "mXpdGi1xQml3KOZGgS6HoPtRLKyNjrRXfPnfAFbb/8oGibKu8u82GboEo+7nc8PUQzj8eBmYoIjJhvDwnmxCeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chiml\\Desktop\\Oracle Image\\GitHubOracle\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+=======
   "dgSpecHash": "vaOd4nwdwF41CLQ8FeBWzJbNUhvdGpFyyOSqcVtg0oGklfJw9MAipcW6BDoFjr1vyTD6lKX8iFZpr7EdRDBMIw==",
   "success": true,
   "projectFilePath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
   "expectedPackageFiles": [
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.50\\oracle.manageddataaccess.core.3.21.50.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.directoryservices\\5.0.0\\system.directoryservices.5.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.directoryservices.protocols\\5.0.1\\system.directoryservices.protocols.5.0.1.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\chiml\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.50\\oracle.manageddataaccess.core.3.21.50.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.directoryservices\\5.0.0\\system.directoryservices.5.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.directoryservices.protocols\\5.0.1\\system.directoryservices.protocols.5.0.1.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\chiml\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
