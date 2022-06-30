@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mXpdGi1xQml3KOZGgS6HoPtRLKyNjrRXfPnfAFbb/8oGibKu8u82GboEo+7nc8PUQzj8eBmYoIjJhvDwnmxCeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\chiml\\Desktop\\Oracle Image\\GitHubOracle\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+=======
+  "dgSpecHash": "vaOd4nwdwF41CLQ8FeBWzJbNUhvdGpFyyOSqcVtg0oGklfJw9MAipcW6BDoFjr1vyTD6lKX8iFZpr7EdRDBMIw==",
+  "success": true,
+  "projectFilePath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
   "expectedPackageFiles": [
     "C:\\Users\\chiml\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
     "C:\\Users\\chiml\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

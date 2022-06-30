@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E1TGsfj7xApwxtOV6j9kk44teGALdwOYdmQMUar8gYgJ7u0r0ZgcbpbAt4c4aGlWtIIEg/hKRYObfMgNR7jlow==",
+  "dgSpecHash": "9wvArE76Xsd4suhrzkbEi61BjeXRdQIAD06jZKHtKaRfCaenazCNNHmjMu+ydU63r2q2b+LU+c2SG12slXa4Cg==",
   "success": true,
-  "projectFilePath": "D:\\zThis is me\\Study from school\\HK3-2\\AT&BMCSDLTHTTT\\Project1\\Project1\\Project1\\Project1.csproj",
+  "projectFilePath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\Project1\\Project1\\Project1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

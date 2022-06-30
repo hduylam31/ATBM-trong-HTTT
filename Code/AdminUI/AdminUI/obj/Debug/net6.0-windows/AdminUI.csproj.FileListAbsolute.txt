@@ -24,6 +24,7 @@ D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-w
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\ref\AdminUI.dll
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.Form1.resources
 D:\zThis is me\Git clone\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.QuanTriClient.resources
+<<<<<<< HEAD
 C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.exe
 C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.deps.json
 C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.runtimeconfig.json
@@ -57,3 +58,32 @@ C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\Ad
 C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.nhan_vien_UI.resources
 C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.benh_nhan.resources
 C:\Users\chiml\Desktop\Oracle Image\GitHubOracle\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.ma_hoa.resources
+=======
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.exe
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.deps.json
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.runtimeconfig.json
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\AdminUI.pdb
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.AssemblyReference.cache
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.login.resources
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.QuanTriClient.resources
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.Form1.resources
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.role_management.resources
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.GenerateResource.cache
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.AssemblyInfoInputs.cache
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.AssemblyInfo.cs
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.CoreCompileInputs.cache
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.csproj.CopyComplete
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\refint\AdminUI.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.pdb
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.genruntimeconfig.cache
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\ref\AdminUI.dll
+D:\zThis is me\Git clone\ATBMHTTT\ATBM-trong-HTTT\Code\AdminUI\AdminUI\obj\Debug\net6.0-windows\AdminUI.y_bacsi_UI.resources
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e

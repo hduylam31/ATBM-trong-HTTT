@@ -704,11 +704,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\chiml\\Desktop\\Oracle Image\\GitHubOracle\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
       "projectName": "AdminUI",
       "projectPath": "C:\\Users\\chiml\\Desktop\\Oracle Image\\GitHubOracle\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
       "packagesPath": "C:\\Users\\chiml\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\chiml\\Desktop\\Oracle Image\\GitHubOracle\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\obj\\",
+=======
+      "projectUniqueName": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+      "projectName": "AdminUI",
+      "projectPath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\AdminUI.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "D:\\zThis is me\\Git clone\\ATBMHTTT\\ATBM-trong-HTTT\\Code\\AdminUI\\AdminUI\\obj\\",
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -764,7 +772,11 @@
             "privateAssets": "none"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
       }
     }
   }

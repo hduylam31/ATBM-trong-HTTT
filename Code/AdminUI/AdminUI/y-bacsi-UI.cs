@@ -26,7 +26,11 @@ namespace AdminUI
             try
             {
                 con.Open();
+<<<<<<< HEAD
                 OracleDataAdapter adpt = new OracleDataAdapter("SELECT DISTINCT MAHSBA, MABN, NGAY, CHANDOAN, MABS, MAKHOA, MACSYT, KETLUAN FROM C##Admin_BenhVien.V_HSBA_KQDV", con);
+=======
+                OracleDataAdapter adpt = new OracleDataAdapter("SELECT DISTINCT MAHSBA, MABN, NGAY, CHANDOAN, MABS, MAKHOA, MACSYT, KETLUAN FROM V_HSBA_KQDV", con);
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
                 DataTable dt = new DataTable();
                 adpt.Fill(dt);
                 dgv_HSBA.DataSource = dt;
@@ -45,7 +49,11 @@ namespace AdminUI
             try
             {
                 con.Open();
+<<<<<<< HEAD
                 OracleDataAdapter adpt = new OracleDataAdapter("SELECT DISTINCT MAHSBA, MABN, NGAY, CHANDOAN, MABS, MAKHOA, MACSYT, KETLUAN FROM C##Admin_BenhVien.V_HSBA_KQDV WHERE MAHSBA = " + MAHS, con);
+=======
+                OracleDataAdapter adpt = new OracleDataAdapter("SELECT DISTINCT MAHSBA, MABN, NGAY, CHANDOAN, MABS, MAKHOA, MACSYT, KETLUAN FROM V_HSBA_KQDV WHERE MAHSBA = " + MAHS, con);
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
                 DataTable dt = new DataTable();
                 adpt.Fill(dt);
                 dgv_HSBA.DataSource = dt;
@@ -64,10 +72,17 @@ namespace AdminUI
             try
             {
                 con.Open();
+<<<<<<< HEAD
                 OracleDataAdapter adpt = new OracleDataAdapter("SELECT * FROM C##Admin_BenhVien.BENHNHAN WHERE MABN = " + BN + " OR CMND = " + BN, con);
                 DataTable dt = new DataTable();
                 adpt.Fill(dt);
                 dgv_BN.DataSource = dt;
+=======
+                OracleDataAdapter adpt = new OracleDataAdapter("SELECT * FROM BENHNHAN WHERE MABN = " + BN + " OR CMND = " + BN, con);
+                DataTable dt = new DataTable();
+                adpt.Fill(dt);
+                dgv_HSBA.DataSource = dt;
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
                 con.Close();
             }
             catch (Exception ex)
@@ -83,10 +98,17 @@ namespace AdminUI
             try
             {
                 con.Open();
+<<<<<<< HEAD
                 OracleDataAdapter adpt = new OracleDataAdapter("SELECT MADV, NGAYDV, KETQUA FROM C##Admin_BenhVien.V_HSBA_KQDV WHERE MAHSBA = " + MAHS, con);
                 DataTable dt = new DataTable();
                 adpt.Fill(dt);
                 dgv_DV.DataSource = dt;
+=======
+                OracleDataAdapter adpt = new OracleDataAdapter("SELECT MADV, NGAYDV, KETQUA FROM SYS.V_HSBA_KQDV WHERE MAHSBA = " + MAHS, con);
+                DataTable dt = new DataTable();
+                adpt.Fill(dt);
+                dgv_HSBA.DataSource = dt;
+>>>>>>> 8667402447bf2047a5f9023cc42626f5989ff35e
                 con.Close();
             }
             catch (Exception ex)
