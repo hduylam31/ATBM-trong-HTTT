@@ -2,7 +2,7 @@
 DECLARE
   CURSOR c1 IS
     SELECT MANV FROM C##Admin_BenhVien.NHANVIEN
-    WHERE MANV < 21
+    WHERE MANV < 5
     ORDER BY MANV;
 
   my_id   C##Admin_BenhVien.NHANVIEN.MANV%TYPE;
