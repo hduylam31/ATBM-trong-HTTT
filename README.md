@@ -17,6 +17,7 @@ tinh đến mức cột; quyền insert, delete thì không.
 - Cho phép thu hồi quyền từ người dùng/ role.
 - Cho phép kiểm tra quyền của các chủ thể vừa được cấp quyền.
 - Cho phép chỉnh sửa quyền của user/ role.
+
 PHÂN HỆ 2: Sở y tế tỉnh/ thành phố X cần gom dữ liệu về kho dữ liệu D (cấp sở), gồm 
 hồ sơ bệnh án (và một số dữ liệu liên quan) từ các cơ sở y tế trong tỉnh/ thành phố và 
 quản lý chuyên môn về việc khám chữa bệnh của các cơ sở y tế thông qua một hệ thống 
